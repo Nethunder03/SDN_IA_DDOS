@@ -1,0 +1,102 @@
+'icmp_code': 0.0, 'icmp_type': 0.0, 'duration_sec': 0.0, 'duration_nsec': 0.0, 'idle_timeout': 0.0, 'hard_timeout': 0.0, 'packet_count': 0.0, 'byte_count': 0.0, 'packet_count_per_second': 0.0, 'packet_count_per_nsecond': 0.0, 'byte_count_per_second': 0.0, 'byte_count_per_nsecond': 0.0}
+{'icmp_code': 0.0, 'icmp_type': 0.0, 'duration_sec': 0.0, 'duration_nsec': 0.0, 'idle_timeout': 0.0, 'hard_timeout': 0.0, 'packet_count': 0.0, 'byte_count': 0.0, 'packet_count_per_second': 0.0, 'packet_count_per_nsecond': 0.0, 'byte_count_per_second': 0.0, 'byte_count_per_nsecond': 0.0}
+{'icmp_code': 0.0, 'icmp_type': 0.0, 'duration_sec': 0.0, 'duration_nsec': 0.0, 'idle_timeout': 0.0, 'hard_timeout': 0.0, 'packet_count': 0.0, 'byte_count': 0.0, 'packet_count_per_second': 0.0, 'packet_count_per_nsecond': 0.0, 'byte_count_per_second': 0.0, 'byte_count_per_nsecond': 0.0}
+{'icmp_code': 0.0, 'icmp_type': 0.0, 'duration_sec': 0.0, 'duration_nsec': 0.0, 'idle_timeout': 0.0, 'hard_timeout': 0.0, 'packet_count': 0.0, 'byte_count': 0.0, 'packet_count_per_second': 0.0, 'packet_count_per_nsecond': 0.0, 'byte_count_per_second': 0.0, 'byte_count_per_nsecond': 0.0}
+{'icmp_code': 0.0, 'icmp_type': 0.0, 'duration_sec': 0.0, 'duration_nsec': 0.0, 'idle_timeout': 0.0, 'hard_timeout': 0.0, 'packet_count': 0.0, 'byte_count': 0.0, 'packet_count_per_second': 0.0, 'packet_count_per_nsecond': 0.0, 'byte_count_per_second': 0.0, 'byte_count_per_nsecond': 0.0}
+{'icmp_code': 0.0, 'icmp_type': 0.0, 'duration_sec': 0.0, 'duration_nsec': 0.0, 'idle_timeout': 0.0, 'hard_timeout': 0.0, 'packet_count': 0.0, 'byte_count': 0.0, 'packet_count_per_second': 0.0, 'packet_count_per_nsecond': 0.0, 'byte_count_per_second': 0.0, 'byte_count_per_nsecond': 0.0}
+{'icmp_code': 0.0, 'icmp_type': 0.0, 'duration_sec': 0.0, 'duration_nsec': 0.0, 'idle_timeout': 0.0, 'hard_timeout': 0.0, 'packet_count': 0.0, 'byte_count': 0.0, 'packet_count_per_second': 0.0, 'packet_count_per_nsecond': 0.0, 'byte_count_per_second': 0.0, 'byte_count_per_nsecond': 0.0}
+{'icmp_code': 0.0, 'icmp_type': 0.0, 'duration_sec': 0.0, 'duration_nsec': 0.0, 'idle_timeout': 0.0, 'hard_timeout': 0.0, 'packet_count': 0.0, 'byte_count': 0.0, 'packet_count_per_second': 0.0, 'packet_count_per_nsecond': 0.0, 'byte_count_per_second': 0.0, 'byte_count_per_nsecond': 0.0}
+{'icmp_code': 0.0, 'icmp_type': 0.0, 'duration_sec': 0.0, 'duration_nsec': 0.0, 'idle_timeout': 0.0, 'hard_timeout': 0.0, 'packet_count': 0.0, 'byte_count': 0.0, 'packet_count_per_second': 0.0, 'packet_count_per_nsecond': 0.0, 'byte_count_per_second': 0.0, 'byte_count_per_nsecond': 0.0}
+{'icmp_code': 0.0, 'icmp_type': 0.0, 'duration_sec': 0.0, 'duration_nsec': 0.0, 'idle_timeout': 0.0, 'hard_timeout': 0.0, 'packet_count': 0.0, 'byte_count': 0.0, 'packet_count_per_second': 0.0, 'packet_count_per_nsecond': 0.0, 'byte_count_per_second': 0.0, 'byte_count_per_nsecond': 0.0}
+
+
+Raw Data: {'icmp_code': -1, 'icmp_type': -1, 'duration_sec': 4, 'duration_nsec': 601000000, 'idle_timeout': 20, 'hard_timeout': 100, 'packet_count': 4, 'byte_count': 449, 'packet_count_per_second': 1.0, 'packet_count_per_nsecond': 6.655574043261231e-09, 'byte_count_per_second': 112.25, 'byte_count_per_nsecond': 7.470881863560732e-07}
+{'icmp_code': 0.0, 'icmp_type': 0.0, 'duration_sec': 0.0, 'duration_nsec': 0.0, 'idle_timeout': 0.0, 'hard_timeout': 0.0, 'packet_count': 0.0, 'byte_count': 0.0, 'packet_count_per_second': 0.0, 'packet_count_per_nsecond': 0.0, 'byte_count_per_second': 0.0, 'byte_count_per_nsecond': 0.0}
+Raw Data: {'icmp_code': -1, 'icmp_type': -1, 'duration_sec': 4, 'duration_nsec': 544000000, 'idle_timeout': 20, 'hard_timeout': 100, 'packet_count': 3, 'byte_count': 736, 'packet_count_per_second': 0.75, 'packet_count_per_nsecond': 5.514705882352941e-09, 'byte_count_per_second': 184.0, 'byte_count_per_nsecond': 1.3529411764705883e-06}
+{'icmp_code': 0.0, 'icmp_type': 0.0, 'duration_sec': 0.0, 'duration_nsec': 0.0, 'idle_timeout': 0.0, 'hard_timeout': 0.0, 'packet_count': 0.0, 'byte_count': 0.0, 'packet_count_per_second': 0.0, 'packet_count_per_nsecond': 0.0, 'byte_count_per_second': 0.0, 'byte_count_per_nsecond': 0.0}
+Raw Data: {'icmp_code': -1, 'icmp_type': -1, 'duration_sec': 4, 'duration_nsec': 345000000, 'idle_timeout': 20, 'hard_timeout': 100, 'packet_count': 4, 'byte_count': 455, 'packet_count_per_second': 1.0, 'packet_count_per_nsecond': 1.1594202898550725e-08, 'byte_count_per_second': 113.75, 'byte_count_per_nsecond': 1.318840579710145e-06}
+{'icmp_code': 0.0, 'icmp_type': 0.0, 'duration_sec': 0.0, 'duration_nsec': 0.0, 'idle_timeout': 0.0, 'hard_timeout': 0.0, 'packet_count': 0.0, 'byte_count': 0.0, 'packet_count_per_second': 0.0, 'packet_count_per_nsecond': 0.0, 'byte_count_per_second': 0.0, 'byte_count_per_nsecond': 0.0}
+
+
+Raw Data: {'icmp_code': -1, 'icmp_type': -1, 'duration_sec': 27, 'duration_nsec': 251000000, 'idle_timeout': 20, 'hard_timeout': 100, 'packet_count': 510395, 'byte_count': 22334800498, 'packet_count_per_second': 18903.51851851852, 'packet_count_per_nsecond': 0.0020334462151394422, 'byte_count_per_second': 827214833.2592592, 'byte_count_per_nsecond': 88.98326891633467}
+Normalized Data (Manual): {'icmp_code': 0, 'icmp_type': 0, 'duration_sec': 0, 'duration_nsec': 0, 'idle_timeout': 0, 'hard_timeout': 0, 'packet_count': 0, 'byte_count': 0, 'packet_count_per_second': 0, 'packet_count_per_nsecond': 0, 'byte_count_per_second': 0, 'byte_count_per_nsecond': 0}
+Raw Data: {'icmp_code': -1, 'icmp_type': -1, 'duration_sec': 7, 'duration_nsec': 119000000, 'idle_timeout': 20, 'hard_timeout': 100, 'packet_count': 224201, 'byte_count': 14797294, 'packet_count_per_second': 32028.714285714286, 'packet_count_per_nsecond': 0.0018840420168067227, 'byte_count_per_second': 2113899.1428571427, 'byte_count_per_nsecond': 0.12434700840336134}
+Normalized Data (Manual): {'icmp_code': 0, 'icmp_type': 0, 'duration_sec': 0, 'duration_nsec': 0, 'idle_timeout': 0, 'hard_timeout': 0, 'packet_count': 0, 'byte_count': 0, 'packet_count_per_second': 0, 'packet_count_per_nsecond': 0, 'byte_count_per_second': 0, 'byte_count_per_nsecond': 0}
+Raw Data: {'icmp_code': -1, 'icmp_type': -1, 'duration_sec': 7, 'duration_nsec': 172000000, 'idle_timeout': 20, 'hard_timeout': 100, 'packet_count': 0, 'byte_count': 0, 'packet_count_per_second': 0.0, 'packet_count_per_nsecond': 0.0, 'byte_count_per_second': 0.0, 'byte_count_per_nsecond': 0.0}
+Normalized Data (Manual): {'icmp_code': 0, 'icmp_type': 0, 'duration_sec': 0, 'duration_nsec': 0, 'idle_timeout': 0, 'hard_timeout': 0, 'packet_count': 0, 'byte_count': 0, 'packet_count_per_second': 0, 'packet_count_per_nsecond': 0, 'byte_count_per_second': 0, 'byte_count_per_nsecond': 0}
+Raw Data: {'icmp_code': -1, 'icmp_type': -1, 'duration_sec': 27, 'duration_nsec': 239000000, 'idle_timeout': 20, 'hard_timeout': 100, 'packet_count': 340119, 'byte_count': 22447882, 'packet_count_per_second': 12597.0, 'packet_count_per_nsecond': 0.001423092050209205, 'byte_count_per_second': 831403.0370370371, 'byte_count_per_nsecond': 0.09392419246861924}
+Normalized Data (Manual): {'icmp_code': 0, 'icmp_type': 0, 'duration_sec': 0, 'duration_nsec': 0, 'idle_timeout': 0, 'hard_timeout': 0, 'packet_count': 0, 'byte_count': 0, 'packet_count_per_second': 0, 'packet_count_per_nsecond': 0, 'byte_count_per_second': 0, 'byte_count_per_nsecond': 0}
+
+
+loading app Mitigation.py
+loading app ryu.controller.ofp_handler
+instantiating app Mitigation.py of SimpleMonitor13
+Traceback (most recent call last):
+  File "/usr/local/bin/ryu-manager", line 8, in <module>
+    sys.exit(main())
+  File "/usr/local/lib/python3.8/dist-packages/ryu/cmd/manager.py", line 101, in main
+    services.extend(app_mgr.instantiate_apps(**contexts))
+  File "/usr/local/lib/python3.8/dist-packages/ryu/base/app_manager.py", line 509, in instantiate_apps
+    self._instantiate(app_name, cls, *args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/ryu/base/app_manager.py", line 495, in _instantiate
+    app = cls(*args, **kwargs)
+  File "/home/controleur/scripts/Mitigation.py", line 22, in __init__
+    self.loaded_model = pickle.load(model_file)
+  File "sklearn/tree/_tree.pyx", line 714, in sklearn.tree._tree.Tree.__setstate__
+  File "sklearn/tree/_tree.pyx", line 1418, in sklearn.tree._tree._check_node_ndarray
+ValueError: node array from the pickle has an incompatible dtype:
+- expected: {'names': ['left_child', 'right_child', 'feature', 'threshold', 'impurity', 'n_node_samples', 'weighted_n_node_samples', 'missing_go_to_left'], 'formats': ['<i8', '<i8', '<i8', '<f8', '<f8', '<i8', '<f8', 'u1'], 'offsets': [0, 8, 16, 24, 32, 40, 48, 56], 'itemsize': 64}
+- got     : [('left_child', '<i8'), ('right_child', '<i8'), ('feature', '<i8'), ('threshold', '<f8'), ('impurity', '<f8'), ('n_node_samples', '<i8'), ('weighted_n_node_samples', '<f8')]
+
+
+
+
+oading app ryu.controller.ofp_handler
+instantiating app Mitigation.py of SimpleMonitor13
+instantiating app ryu.controller.ofp_handler of OFPHandler
+An error occurred: "['datapath', 'in_port', 'eth_type', 'eth_src', 'eth_dst'] not found in axis"
+An error occurred: "['datapath', 'in_port', 'eth_type', 'eth_src', 'eth_dst'] not found in axis"
+An error occurred: "['datapath', 'in_port', 'eth_type', 'eth_src', 'eth_dst'] not found in axis"
+An error occurred: "['datapath', 'in_port', 'eth_type', 'eth_src', 'eth_dst'] not found in axis"
+An error occurred: "['datapath', 'in_port', 'eth_type', 'eth_src', 'eth_dst'] not found in axis"
+
+
+
+loading app Mitigation.py
+loading app ryu.controller.ofp_handler
+instantiating app Mitigation.py of SimpleMonitor13
+Traceback (most recent call last):
+  File "/usr/local/bin/ryu-manager", line 8, in <module>
+    sys.exit(main())
+  File "/usr/local/lib/python3.8/dist-packages/ryu/cmd/manager.py", line 101, in main
+    services.extend(app_mgr.instantiate_apps(**contexts))
+  File "/usr/local/lib/python3.8/dist-packages/ryu/base/app_manager.py", line 509, in instantiate_apps
+    self._instantiate(app_name, cls, *args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/ryu/base/app_manager.py", line 495, in _instantiate
+    app = cls(*args, **kwargs)
+  File "/home/controleur/scripts/Mitigation.py", line 22, in __init__
+    self.loaded_model = pickle.load(model_file)
+  File "sklearn/tree/_tree.pyx", line 728, in sklearn.tree._tree.Tree.__setstate__
+  File "sklearn/tree/_tree.pyx", line 1434, in sklearn.tree._tree._check_node_ndarray
+ValueError: node array from the pickle has an incompatible dtype:
+- expected: {'names': ['left_child', 'right_child', 'feature', 'threshold', 'impurity', 'n_node_samples', 'weighted_n_node_samples', 'missing_go_to_left'], 'formats': ['<i8', '<i8', '<i8', '<f8', '<f8', '<i8', '<f8', 'u1'], 'offsets': [0, 8, 16, 24, 32, 40, 48, 56], 'itemsize': 64}
+- got     : [('left_child', '<i8'), ('right_child', '<i8'), ('feature', '<i8'), ('threshold', '<f8'), ('impurity', '<f8'), ('n_node_samples', '<i8'), ('weighted_n_node_samples', '<f8')]
+
+
+
+
+
+
+An error occurred: Found array with 0 sample(s) (shape=(0, 12)) while a minimum of 1 is required by MinMaxScaler.
+An error occurred: invalid literal for int() with base 10: '20:09:ad:b7:e9:3c'
+An error occurred: Found array with 0 sample(s) (shape=(0, 12)) while a minimum of 1 is required by MinMaxScaler.
+An error occurred: invalid literal for int() with base 10: '20:09:ad:b7:e9:3c'
+An error occurred: Found array with 0 sample(s) (shape=(0, 12)) while a minimum of 1 is required by MinMaxScaler.
+An error occurred: invalid literal for int() with base 10: '20:09:ad:b7:e9:3c'
+An error occurred: invalid literal for int() with base 10: 'a8:bb:71:72:f2:20'
+Traffic is Legitimate!
+An error occurred: Found array with 0 sample(s) (shape=(0, 12)) while a minimum of 1 is required by MinMaxScaler.
+An error occurred: invalid literal for int() with base 10: '7e:7b:2e:28:47:25'
+An error occurred: Found array with 0 sample(s) (shape=(0, 12)) while a minimum of 1 is required by MinMaxScaler.
+An error occurred: invalid literal for int() with base 10: '20:09:ad:b7:e9:3c'
+An error occurred: invalid literal for int() with base 10: '20:09:ad:b7:e9:3c'
